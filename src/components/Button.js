@@ -28,6 +28,9 @@ export default function OutlinedButtons() {
             <Button variant="outlined" color="primary" href="#outlined-buttons">
                 Link
       </Button>
+        <Button variant="outlined" color="primary" href="#outlined-buttons">
+                Save Button
+      </Button>
         </div>
     );
 }
